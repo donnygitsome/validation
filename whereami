@@ -1,2 +1,3 @@
 ./0-current_working_directory
 /Users/devops/project/whereami
+export HOME=<directory containing your alternate .gitconfig file)
